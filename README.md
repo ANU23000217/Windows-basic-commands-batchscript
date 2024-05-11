@@ -1,5 +1,5 @@
-![image](https://github.com/ANU23000217/Windows-basic-commands-batchscript/assets/139117108/9d8aff0e-9951-47e6-942d-7ad34477abbc)# Windows-basic-commands-batchscript
-Ex08-Windows-basic-commands-batchscript
+
+## Ex08-Windows-basic-commands-batchscript
 
 # AIM:
 To execute Windows basic commands and batch scripting
